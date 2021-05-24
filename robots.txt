@@ -10,4 +10,4 @@ User-agent: *
 Disallow: /admin
 Disallow: *?s=
 Disallow: *?p=
-Sitemap: https://site.ru/sitemap.xml
+Sitemap: https://catzejo.github.io/sitemap.xml
